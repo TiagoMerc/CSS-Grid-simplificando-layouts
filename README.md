@@ -5,6 +5,9 @@
 #### INTRUTOR: 
 Matheus Castiglioni
 
+GitHub Pages: 
+[Acesee a página do projeto](https://tiagomerc.github.io/CSS-Grid-simplificando-layouts/)
+
 **01. Definindo o layout base**
 
 Nessa aula, aprendemos:
@@ -18,3 +21,4 @@ Nessa aula, aprendemos:
 - Posicionar os elementos em suas áreas.
 
 ![01. Definindo o layout base](assets/img/prints/DefLayoutBase.png)
+![01. Definindo o layout base](assets/img/prints/rodape_DefLayoutBase.png)
