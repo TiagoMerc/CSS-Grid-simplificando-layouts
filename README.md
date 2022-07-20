@@ -6,7 +6,7 @@
 Matheus Castiglioni
 
 GitHub Pages: 
-[Acesee a página do projeto](https://tiagomerc.github.io/CSS-Grid-simplificando-layouts/)
+[Acesse a página do projeto](https://tiagomerc.github.io/CSS-Grid-simplificando-layouts/)
 
 **01. Definindo o layout base**
 
@@ -28,3 +28,9 @@ Nessa aula, aprendemos:
 **Criando a seção de destaques e posicionando elementos**
 
 ![Criando a seção de destaques e posicionando elementos](assets/img/prints/Criando%20a%20se%C3%A7%C3%A3o%20de%20destaques%20e%20posicionando%20elementos.png)
+
+**Estilizando destaques**
+
+![Estilizando destaques](assets/img/prints/EstilizandoDestaques.png)
+
+
