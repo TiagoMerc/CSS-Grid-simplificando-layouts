@@ -31,6 +31,29 @@ Nessa aula, aprendemos:
 
 **Estilizando destaques**
 
+Nessa aula, aprendemos:
+
+- Definir um template sem áreas.
+
+- Definir a quantidade das colunas.
+
+- Definir a quantidade das linhas.
+
+- Dizer para os elementos onde devem começar e terminar.
+
+- Definir espaçamento entre linhas e colunas.
+
 ![Estilizando destaques](assets/img/prints/EstilizandoDestaques.png)
 
+**03. Estilizando a seção de populares**
+
+Nessa aula, aprendemos:
+
+- Que é possível haver um grid dentro de outro.
+
+- Calcular largura.
+
+![Estilizando a seção de populares](assets/img/prints/Estilizandoase%C3%A7%C3%A3odepopulares.png)
+
+**04. Deixando o site responsivo** 
 
