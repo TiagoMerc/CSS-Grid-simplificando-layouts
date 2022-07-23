@@ -67,9 +67,26 @@ Nessa aula, aprendemos:
 
 - Adicionar símbolo de copyright.
 
+**Estilizando o cabeçalho**
+
 ![Estilizando o cabeçalho](assets/img/prints/Estilizandoocabecalho.png)
 
-![Contepudo do rodapé](assets/img/prints/Contepudodorodape.png)
+**Conteudo do rodapé**
+
+![Conteudo do rodapé](assets/img/prints/Conteudodorodape.png)
 
 **05. Deixando o site responsivo** 
 
+Nessa aula, aprendemos:
+
+- Utilizar media queries para deixar site responsivo.
+
+- Aplicar diferentes regras para diferentes telas.
+
+**Print do cabeçalho**
+
+![responsivo cabeçalho](assets/img/prints/responsivo1.png)
+
+**Print do conteudo**
+
+![responsivo conteudo](assets/img/prints/responsivo2.png)
