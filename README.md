@@ -55,5 +55,21 @@ Nessa aula, aprendemos:
 
 ![Estilizando a seção de populares](assets/img/prints/Estilizandoase%C3%A7%C3%A3odepopulares.png)
 
-**04. Deixando o site responsivo** 
+**04. Estilizando o cabeçalho, menu e rodapé**
+
+Nessa aula, aprendemos:
+
+- Centralizar conteúdo.
+
+- Adicionar bordas.
+
+- Aplicar estilo no hover do mouse.
+
+- Adicionar símbolo de copyright.
+
+![Estilizando o cabeçalho](assets/img/prints/Estilizandoocabecalho.png)
+
+![Contepudo do rodapé](assets/img/prints/Contepudodorodape.png)
+
+**05. Deixando o site responsivo** 
 
